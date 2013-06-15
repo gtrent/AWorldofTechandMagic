@@ -1,0 +1,20 @@
+[
+{
+  "modid": "GBW",
+  "name": "Gtrent's Big World",
+  "description": "The big world containing everything and more.",
+  "version": "0.0.1",
+  "url": "https://github.com/gtrent/Gtrents-Big-World",
+  "updateUrl": "",
+  "authorList": [
+    "gtrent"
+  ],
+  "credits": "All of you lovely modders out there!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
