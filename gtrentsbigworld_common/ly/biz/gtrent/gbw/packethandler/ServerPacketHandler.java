@@ -1,4 +1,4 @@
-package ly.biz.gtrent.gbw;
+package ly.biz.gtrent.gbw.packethandler;
 
 import java.io.ByteArrayInputStream;
 import java.io.DataInputStream;

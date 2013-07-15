@@ -1,4 +1,4 @@
-package ly.biz.gtrent.gbw;
+package ly.biz.gtrent.gbw.proxy;
 
 import net.minecraft.block.Block;
 import net.minecraft.entity.player.EntityPlayer;
@@ -28,6 +28,7 @@ public void registerTiles(){ //For registering TileEntities
 public void registerBlocks(){ //For registering Blocks
 }
 public void addNames(){ //For adding Item's ingame names
+    LanguageRegistry.addName(GtrentsBigWorld.ruby, "Ruby"); //Adds the name for the ruby item
 }
 public void addRecipes(){ //For adding your Item's recipes
 }

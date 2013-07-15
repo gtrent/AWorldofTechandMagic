@@ -1,4 +1,4 @@
-package ly.biz.gtrent.gbw;
+package ly.biz.gtrent.gbw.item;
 
 import net.minecraft.item.Item;
 import cpw.mods.fml.relauncher.*;

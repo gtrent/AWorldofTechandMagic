@@ -1,6 +1,8 @@
-package ly.biz.gtrent.gbw;
+package ly.biz.gtrent.gbw.blocks;
 
 import java.util.Random;
+
+import ly.biz.gtrent.gbw.GtrentsBigWorld;
 
 import cpw.mods.fml.common.Mod.Init;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
