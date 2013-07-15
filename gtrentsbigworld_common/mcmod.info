@@ -1,7 +1,7 @@
 [
 {
   "modid": "GBW",
-  "name": "Gtrent's Big World",
+  "name": "A World of Tech and Magic",
   "description": "The big world containing everything and more.",
   "version": "0.0.1",
   "url": "https://github.com/gtrent/Gtrents-Big-World",
@@ -9,7 +9,7 @@
   "authorList": [
     "gtrent"
   ],
-  "credits": "All of you lovely modders out there!",
+  "credits": "Thanks to all the people who helped me!",
   "logoFile": "",
   "screenshots": [
   ],
